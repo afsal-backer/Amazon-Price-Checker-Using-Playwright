@@ -11,5 +11,8 @@
   "license": "ISC",
   "devDependencies": {
     "@playwright/test": "^1.19.1"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.7"
   }
 }
